@@ -1,0 +1,22 @@
+package oopIntro;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		Product product = new Product();//Referans oluþturma 
+		product.id=1;
+		product.name="Lenova V14";
+		product.unitPrice=15000;
+		product.detail="16 GB Ram";
+			
+		
+		Product[] products = {};
+		
+		System.out.print(products.length);
+		
+		
+	}
+
+}

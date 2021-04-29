@@ -1,0 +1,10 @@
+package oopIntro_odev;
+
+public class Students implements Entity {
+	
+	public int id;
+	public String name;
+	public String surname;
+	public String mail;
+	public String password;
+}

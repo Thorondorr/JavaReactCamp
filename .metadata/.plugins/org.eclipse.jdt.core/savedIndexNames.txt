@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+D:\Kodlar\Java\JavaKampý\.metadata\.plugins\org.eclipse.jdt.core
+858178207.index
+978816885.index
+380197650.index
+332735579.index
+278804527.index
+2052462106.index

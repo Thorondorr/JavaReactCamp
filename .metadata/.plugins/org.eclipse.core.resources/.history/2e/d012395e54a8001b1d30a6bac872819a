@@ -1,0 +1,18 @@
+package oopIntro_odev;
+
+public class Lesson implements Entity{
+	
+	public int lessonId;
+	public String descriptions;
+	public String youtubeLink;
+	
+	public Lesson() {
+		
+	}
+	
+	public Lesson(int lessonId,String descriptions,String youtubeLink) {
+		this.lessonId=lessonId;
+		this.descriptions=descriptions;
+		this.youtubeLink=youtubeLink;
+	}
+}

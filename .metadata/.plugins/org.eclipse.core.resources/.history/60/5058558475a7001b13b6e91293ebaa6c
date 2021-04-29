@@ -1,0 +1,5 @@
+package oopIntro_odev;
+
+public class Lesson implements Entity{
+	
+}

@@ -1,0 +1,8 @@
+package inheritance2_odev;
+
+public class StudentManager extends User {
+
+	private String studentNo;
+	private String mark;
+	
+}

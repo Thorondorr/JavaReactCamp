@@ -1,0 +1,10 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="oopIntro.Product"><rhs name\="oopIntro.Product"/></lhs><lhs name\="oopIntro.Category"><rhs name\="oopIntro.Category"/></lhs><lhs name\="oopIntro.ProductManager"><rhs name\="oopIntro.ProductManager"/></lhs><lhs name\="oopIntro_odev.Entity"><rhs name\="oopIntro_odev.Cours"/><rhs name\="oopIntro_odev.Lesson"/><rhs name\="oopIntro_odev.User"/></lhs><lhs name\="oopIntro_odev.Cours"><rhs name\="oopIntro_odev.Cours"/></lhs><lhs name\="oopIntro_odev.Lesson"><rhs name\="oopIntro_odev.Lesson"/></lhs><lhs name\="oopIntro_odev.User"><rhs name\="oopIntro_odev.User"/></lhs><lhs name\="inheritance.IndividualCustomer"><rhs name\="inheritance.IndividualCustomer"/></lhs><lhs name\="inheritance.CustomerManager"><rhs name\="inheritance.CustomerManager"/></lhs><lhs name\="inheritance.Customer"><rhs name\="inheritance.CorporateCustomer"/><rhs name\="inheritance.IndividualCustomer"/><rhs name\="inheritance.Customer"/></lhs><lhs name\="inheritance.CorporateCustomer"><rhs name\="inheritance.CorporateCustomer"/></lhs><lhs name\="inheritance2.CustomerManager"><rhs name\="inheritance2.CustomerManager"/></lhs><lhs name\="inheritance2.Logger"><rhs name\="inheritance2.FileLogger"/><rhs name\="inheritance2.DataBaseLogger"/></lhs></history>
+content_assist_number_of_computers=12
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+markOccurrences=false
+org.eclipse.jdt.ui.formatterprofiles.version=21
+spelling_locale_initialized=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

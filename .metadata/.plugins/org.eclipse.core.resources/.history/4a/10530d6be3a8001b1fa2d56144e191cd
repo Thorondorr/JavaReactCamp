@@ -1,0 +1,7 @@
+package inheritance2_odev;
+
+public class Instructor {
+
+	private String courseTitle;
+	private String instructorNo;
+}

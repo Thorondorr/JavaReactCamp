@@ -1,0 +1,8 @@
+package oopIntro_odev;
+
+public class Lesson implements Entity{
+	
+	public int lessonId;
+	public String descriptions;
+	public String youtubeLink;
+}

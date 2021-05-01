@@ -11,7 +11,6 @@
     <fullyQualifiedTypeName name="oopIntro_odev.User"/>
     <fullyQualifiedTypeName name="java.lang.Object"/>
     <fullyQualifiedTypeName name="oopIntro.Category"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="inheritance.CustomerManager"/>
     <fullyQualifiedTypeName name="inheritance.CorporateCustomer"/>
     <fullyQualifiedTypeName name="inheritance.IndividualCustomer"/>
@@ -21,4 +20,11 @@
     <fullyQualifiedTypeName name="inheritance2.CustomerManager"/>
     <fullyQualifiedTypeName name="inheritance2.FileLogger"/>
     <fullyQualifiedTypeName name="inheritance2.DataBaseLogger"/>
+    <fullyQualifiedTypeName name="java.sql.Date"/>
+    <fullyQualifiedTypeName name="inheritance2_odev.User"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="inheritance2_odev.Instructor"/>
+    <fullyQualifiedTypeName name="inheritance2_odev.Student"/>
+    <fullyQualifiedTypeName name="inheritance2_odev.UserManager"/>
+    <fullyQualifiedTypeName name="interfaces.Logger"/>
 </qualifiedTypeNameHistroy>

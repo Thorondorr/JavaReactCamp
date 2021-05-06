@@ -1,9 +1,0 @@
-package oopIntro_odev;
-
-public class Cours implements Entity {
-	
-	public int id;
-	public String courseName;
-	public String explanation;
-
-}

@@ -1,6 +1,0 @@
-package inheritance2_odev;
-
-public class StudentManager extends User {
-
-	
-}

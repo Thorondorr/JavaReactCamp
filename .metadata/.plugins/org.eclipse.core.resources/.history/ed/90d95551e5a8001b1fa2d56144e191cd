@@ -1,7 +1,0 @@
-package inheritance2_odev;
-
-public class Instructor extends Student{
-
-	private String courseTitle;
-	private String instructorNo;
-}

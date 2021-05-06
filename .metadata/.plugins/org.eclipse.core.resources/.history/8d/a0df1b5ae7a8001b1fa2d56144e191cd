@@ -1,8 +1,0 @@
-package inheritance2_odev;
-
-public class DataAcces {
-
-	public void Add() {
-		System.out.println("Genel ekleme");
-	}
-}

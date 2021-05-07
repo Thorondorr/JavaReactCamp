@@ -26,7 +26,7 @@ public class AuthManager implements AuthService {
 	public boolean auth(String email,String password) {
 		// TODO Auto-generated method stub
 		ArrayList<Person> data = new ArrayList<Person>();
-		data=  personDao.GetAll();
+		data=  personDao.GetAll();//data neden null geliyor ? 
 		
 		for(Person item :data) {		
 			if(item.getEmail()==email&&item.getPassword()==password) {

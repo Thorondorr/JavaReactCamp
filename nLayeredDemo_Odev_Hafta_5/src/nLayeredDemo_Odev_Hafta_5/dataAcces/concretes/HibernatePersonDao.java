@@ -8,7 +8,7 @@ import nLayeredDemo_Odev_Hafta_5.entities.concretes.Person;
 
 public class HibernatePersonDao implements PersonDao {
 
-	ArrayList<Person> personList = new ArrayList<Person>();
+	static ArrayList<Person> personList = new ArrayList<Person>();
 	public List<Person> getPersonList() {
 		return personList;
 	}
